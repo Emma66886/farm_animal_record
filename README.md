@@ -1,7 +1,7 @@
 # Farm animal record
 This project is created in other to enable farmers to keep records of their farm aniamals including the total expenses and all, this program will ensure data persistent as it is built on icp blockchain.
 **Roles and Functionalities**
-The canister is designed to allow different roles to perform different functions, basically there are two roles, one being the owner of the farm and the other being the employees on the farm, the owner is granted a grand role to do any thing including removal of an employee and adding of another employee while the employee can only add farm records.
+The canister is designed to allow different roles to perform different functions, basically there are two roles, one being the owner of the farm and the other being the employees on the farm, the owner is granted a grand role to do any thing including removal of an employee and adding of another employee while the employee can only add farm records. /n
   **Owner roles:**
     **Addition of an employe:** The owner of the program which is the first initiator can add an employee details and remove an employee
    ** Other functions:** The owner can perform other functions on the contract such as removal of a record and adition of a record, the role can also renounce or transfer the owner ship to another person.
